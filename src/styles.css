@@ -1,0 +1,56 @@
+.App {
+  font-family: sans-serif;
+  transition: transform(50%, 50%);
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+  width: 50%;
+  margin: auto;
+  margin-top: 10px;
+  padding: 20px;
+  height: 250px;
+  box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+body {
+  background-color: lightgreen;
+}
+.btn {
+  width: 50px;
+  background-color: lightblue;
+  border: none;
+  margin: 5px;
+  outline: none;
+  box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 2px;
+}
+.btn-decre {
+  background-color: #d12b1f;
+}
+.btn-incre {
+  background-color: greenyellow;
+}
+.text {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 50px;
+}
+.heading {
+  text-align: center;
+  border-radius: 5px;
+
+  width: 50%;
+  margin: auto;
+  background-color: white;
+  box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+
+  margin-top: 20%;
+}
+.btn-container {
+  margin-top: 55px;
+}
